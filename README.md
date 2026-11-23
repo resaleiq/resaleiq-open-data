@@ -1,6 +1,6 @@
 # Resale IQ open data: Vinted asking prices and listing departures
 
-Independent data from [Resale IQ](https://resaleiq.dev), a price-check and offer-coaching tool for Vinted and eBay resellers. Not affiliated with Vinted or eBay.
+Independent data from [Resale IQ](https://resaleiq.dev), a reseller toolkit: price checks with a max buy price, fee calculators for Vinted, eBay, Depop & more, offer planner, listing writer and profit ledger. Not affiliated with Vinted, eBay or Depop.
 
 Licence: [CC BY 4.0](LICENSE). Credit: "Source: Resale IQ, https://resaleiq.dev/data, September 2026".
 
